@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /orcamento.html
+
+Sitemap: https://eclipsecortinas.com.br/sitemap.xml

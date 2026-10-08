@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Desenho de persiana horizontal 50 mm de madeira">
+<rect width="400" height="300" fill="#EAF2F9"/>
+<rect x="110" y="50" width="180" height="200" fill="#F6F9FC" stroke="#c9d7e5" stroke-width="4"/>
+<line x1="200" y1="50" x2="200" y2="250" stroke="#c9d7e5" stroke-width="3"/>
+<rect x="100" y="40" width="200" height="12" rx="3" fill="#6b4a2f"/><rect x="100" y="58" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="76" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="94" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="112" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="130" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="148" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="166" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="184" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="202" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="220" width="200" height="12" rx="6.0" fill="#a8774e"/><rect x="100" y="238" width="200" height="12" rx="6.0" fill="#a8774e"/>
+</svg>

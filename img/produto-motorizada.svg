@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Desenho de cortina motorizada com controle remoto">
+<rect width="400" height="300" fill="#EAF2F9"/>
+<rect x="110" y="50" width="180" height="200" fill="#F6F9FC" stroke="#c9d7e5" stroke-width="4"/>
+<line x1="200" y1="50" x2="200" y2="250" stroke="#c9d7e5" stroke-width="3"/>
+<rect x="100" y="40" width="200" height="16" rx="8" fill="#04467A"/><rect x="104" y="56" width="192" height="120" fill="#0569B0" opacity=".8"/><rect x="104" y="172" width="192" height="8" rx="3" fill="#04467A"/><rect x="320" y="150" width="34" height="64" rx="10" fill="#fff" stroke="#04467A" stroke-width="3"/><circle cx="337" cy="170" r="6" fill="#0569B0"/><circle cx="337" cy="194" r="6" fill="#0569B0"/><path d="M326 132 q11 -10 22 0 M320 124 q17 -16 34 0" fill="none" stroke="#0569B0" stroke-width="3" stroke-linecap="round"/>
+</svg>
