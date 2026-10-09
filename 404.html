@@ -3,8 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="robots" content="noindex">
-  <meta http-equiv="refresh" content="0; url=/">
   <title>Eclipse Cortinas</title>
+  <script>
+    // Volta para a página inicial (no domínio próprio ou no endereço do GitHub)
+    location.replace(location.pathname.startsWith("/eclipsecortinas/") ? "/eclipsecortinas/" : "/");
+  </script>
 </head>
 <body><a href="/">Ir para o site da Eclipse Cortinas</a></body>
 </html>
