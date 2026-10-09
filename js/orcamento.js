@@ -393,7 +393,7 @@ const arquivoParaURL = (f) => new Promise((ok) => { const r = new FileReader(); 
 async function gerarPDF() {
   const { jsPDF } = window.jspdf;
   const doc = new jsPDF({ unit: "mm", format: "a4" });
-  const W = 210, M = 14, AZUL = [5, 105, 176], LARANJA = [245, 180, 0], CINZA = [90, 96, 94];
+  const W = 210, M = 14, AZUL = [5, 105, 176], LARANJA = [138, 150, 163], CINZA = [90, 96, 94];
   const t = totais();
   const f = form;
   const tipo = f.tipo.value || "Orçamento"; // "Orçamento" ou "Pedido"
